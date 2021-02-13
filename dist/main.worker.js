@@ -1,0 +1,1 @@
+(()=>{"use strict";let e;addEventListener("message",(t=>e=e||t.data.mode))})();
